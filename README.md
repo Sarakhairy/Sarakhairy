@@ -1,19 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sara Khairy</h1>
 <h3 align="center">A passionate Flutter developer from Egypt</h3>
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-- 🔭 I’m currently working on **GrowBot - Smart Plant Assistant**
-
-- 🌱 I’m currently learning **Advanced Flutter, Firebase, and UI/UX principles**
-
-- 👯 I’m looking to collaborate on **Open-source Flutter apps**
-
 - 💬 Ask me about **Dart, Flutter, Firebase, and App UI Design**
 
 - 📫 How to reach me: **Sarahkhairy180@gmail.com**
-
-- ⚡ Fun fact: *I love turning caffeine into beautiful apps ☕📱*
 
 ---
 ### 🛠️ Languages and Tools:
