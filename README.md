@@ -29,6 +29,9 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SarahKhairy&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SaraKhairy&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaraKhairy&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraKhairy&layout=compact&theme=tokyonight" />
