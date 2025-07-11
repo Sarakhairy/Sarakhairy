@@ -4,7 +4,7 @@
 - 💬 Ask me about **Dart, Flutter, Firebase, and App UI Design**
 
 - 📫 How to reach me: **Sarahkhairy180@gmail.com**
-![Profile Views](https://komarev.com/ghpvc/?username=SaraKhairy&label=Profile%20views&color=0e75b6&style=flat)
+<h5>![Profile Views](https://komarev.com/ghpvc/?username=SaraKhairy&label=Profile%20views&color=0e75b6&style=flat)</h5>
 
 ---
 ### 🛠️ Languages and Tools:
