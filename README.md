@@ -28,7 +28,9 @@
 ---
 
 ### 📊 GitHub Stats:
-
+<p align="center">
+  <img src="https://ghchart.rshah.org/SaraKhairy" alt="Sara's Github chart" />
+</p>
 ---
 
 ### 🏆 GitHub Trophies:
