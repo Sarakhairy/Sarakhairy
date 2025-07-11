@@ -16,15 +16,15 @@
 - ⚡ Fun fact: *I love turning caffeine into beautiful apps ☕📱*
 
 ---
+### 💻 Tech Stack & Tools
 
-### 🛠️ Languages and Tools:
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-</p>
-
+| Language / Tool | Progress |
+|------------------|----------|
+| ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) | ![90%](https://progress-bar.dev/90/) |
+| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![85%](https://progress-bar.dev/85/) |
+| ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) | ![80%](https://progress-bar.dev/80/) |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![70%](https://progress-bar.dev/70/) |
+| ![UI/UX Design](https://img.shields.io/badge/UI%2FUX-FE4185?style=for-the-badge&logo=figma&logoColor=white) | ![65%](https://progress-bar.dev/65/) |
 ---
 
 ### 📊 GitHub Stats:
