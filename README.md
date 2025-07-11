@@ -1,22 +1,50 @@
-<h1 align="center">Hi 👋, I'm Sarah</h1>
-<h3 align="center">Junior Flutter Developer | Passionate about building real-world solutions with clean code and great UI/UX</h3>
+<h1 align="center">Hi 👋, I'm Sara Khairy</h1>
+<h3 align="center">A passionate Flutter developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarakhairy&label=Profile%20views&color=0e75b6&style=flat" alt="sarakhairy" /> </p>
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🌱 I’m currently learning **Bloc as state management**
+- 🔭 I’m currently working on **GrowBot - Smart Plant Assistant**
 
-- 📫 How to reach me **Sarahkhairy180@gmail.com**
+- 🌱 I’m currently learning **Advanced Flutter, Firebase, and UI/UX principles**
 
-<h3 align="left">Connect with me:</h3>
+- 👯 I’m looking to collaborate on **Open-source Flutter apps**
+
+- 💬 Ask me about **Dart, Flutter, Firebase, and App UI Design**
+
+- 📫 How to reach me: **Sarahkhairy180@gmail.com**
+
+- ⚡ Fun fact: *I love turning caffeine into beautiful apps ☕📱*
+
+---
+
+### 🛠️ Languages and Tools:
 <p align="left">
-<a href="https://linkedin.com/in/sarah-khairy-selim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarah-khairy-selim" height="30" width="40" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarakhairy&show_icons=true&locale=en&layout=compact" alt="sarakhairy" /></p>
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SarahKhairy&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SarahKhairy&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahKhairy&layout=compact&theme=tokyonight" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarakhairy&show_icons=true&locale=en" alt="sarakhairy" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarakhairy&" alt="sarakhairy" /></p>
+### 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SarahKhairy&theme=onedark" />
+</p>
+
+---
+
+### 🔗 Connect with me:
+<p>
+  <a href="https://www.linkedin.com/in/sarah-khairy-selim" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:Sarahkhairy180@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
