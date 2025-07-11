@@ -29,16 +29,16 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SarahKhairy&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SarahKhairy&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahKhairy&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaraKhairy&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaraKhairy&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraKhairy&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SarahKhairy&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SaraKhairy&theme=onedark" />
 </p>
 
 ---
