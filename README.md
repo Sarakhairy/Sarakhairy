@@ -22,6 +22,13 @@
 <p align="center">
   <img src="https://ghchart.rshah.org/SaraKhairy" alt="Sara's Github chart" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaraKhairy&show_icons=true&theme=tokyonight" alt="Sara's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraKhairy&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 ---
 
 ### 🏆 GitHub Trophies:
@@ -36,5 +43,3 @@
   <a href="https://www.linkedin.com/in/sarah-khairy-selim" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:Sarahkhairy180@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaraKhairy&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraKhairy&layout=compact&theme=tokyonight)
