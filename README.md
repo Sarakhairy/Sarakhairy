@@ -36,5 +36,5 @@
   <a href="https://www.linkedin.com/in/sarah-khairy-selim" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:Sarahkhairy180@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaraKhairy&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraKhairy&layout=compact&theme=tokyonight)
+![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=SarahKhairy&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SarahKhairy&layout=compact&theme=tokyonight)
